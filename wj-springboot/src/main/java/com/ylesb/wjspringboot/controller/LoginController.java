@@ -20,7 +20,7 @@ package com.ylesb.wjspringboot.controller;
  * @updateRemark : [描述说明本次修改内容] 
  */
 
-import com.ylesb.wjspringboot.pojo.Result;
+import com.ylesb.wjspringboot.config.Result;
 import com.ylesb.wjspringboot.pojo.User;
 import com.ylesb.wjspringboot.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;

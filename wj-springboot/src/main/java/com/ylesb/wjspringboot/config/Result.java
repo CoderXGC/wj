@@ -1,4 +1,4 @@
-package com.ylesb.wjspringboot.pojo;
+package com.ylesb.wjspringboot.config;
 /**
  * @title: Result
  * @projectName wj-springboot
