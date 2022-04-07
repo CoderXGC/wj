@@ -42,6 +42,7 @@
 <script>
   import EditForm from './EditForm'
   import SearchBar from './SearchBar'
+  import ImgUpload from './ImgUpload'
   export default {
     name: 'Books',
     components: {EditForm, SearchBar},

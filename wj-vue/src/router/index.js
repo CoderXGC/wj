@@ -4,7 +4,7 @@ import AppIndex from '../components/home/AppIndex'
 import Login from '../components/Login'
 import Home from '../components/Home'
 import LibraryIndex from '../components/library/LibraryIndex'
-
+import ImgUpload from '../components/library/ImgUpload'
 Vue.use(Router)
 
 export default new Router({
